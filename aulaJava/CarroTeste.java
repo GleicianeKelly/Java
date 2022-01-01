@@ -13,15 +13,13 @@ public class CarroTeste {
 		
 		
 		opcao();
-		
-				
+					
 		
 	}
 	
 	
-	
 	public static void opcao() {
-			
+		
 			while(true) {
 				
 				System.out.println("**************");
